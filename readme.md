@@ -1,4 +1,4 @@
-## Quy Trình Vận Hành Chuyên Nghiệp Ứng Dụng Truy Xuất Nguồn Gốc
+## READ ME
 
 ### Giai Đoạn 0: Chuẩn Bị và Cấu Hình Hệ Thống (Vai trò: Quản Trị Viên - Admin)
 
